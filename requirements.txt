@@ -1,0 +1,4 @@
+for best results:
+mediapipe==0.10.21
+numpy<2.0.0
+opencv-python<5.0.0
