@@ -25,7 +25,7 @@ Inspired by the AKB48 Janken Tournament, this is a Python and MediaPipe-based ro
 ```
 mediapipe-rps
 ├── .gitignore                          # Directs Git to ignore specific local files (if you have it)
-├── 26521213 - Báo cáo MediaPipe.pdf    # Report on this project (to be added)
+├── 26521213 - Báo cáo MediaPipe.pdf    # Report on this project
 ├── demo-link.txt                       # Link to demonstration video (to be added)
 ├── rps-game.py                         # The entire game
 └── requirements.txt                    # Dependency requirements
